@@ -1,5 +1,9 @@
 # Customer Churn Analysis
 
+## Dashboard Preview
+
+![Customer Churn Dashboard](Churn_Analysis_Dashboard.png)
+
 ## Project Overview
 This project presents an end-to-end Customer Churn Analysis using Power BI. The objective is to identify the key factors contributing to customer churn and provide actionable business insights to improve customer retention.
 
